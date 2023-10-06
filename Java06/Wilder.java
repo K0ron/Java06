@@ -1,3 +1,5 @@
+package Java06;
+
 class Wilder {
     private String firstname;
     private boolean aware;
